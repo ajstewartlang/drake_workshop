@@ -37,3 +37,4 @@ vignettes/*.pdf
 
 # Keynote slides
 *.key
+.Rproj.user

@@ -57,6 +57,6 @@ vis_drake_graph(config)
 
 make(my_plan)
 
-drake_history(analyze = TRUE) %>% view()
+drake_history(analyze = TRUE) 
 
 
