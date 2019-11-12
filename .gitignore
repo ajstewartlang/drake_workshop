@@ -36,5 +36,6 @@ vignettes/*.pdf
 *.knit.md
 
 # Keynote slides
-*.key
+
+
 .Rproj.user
